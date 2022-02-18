@@ -1,0 +1,22 @@
+body {
+    background-color: lightpink;
+    margin: 50px;
+}
+.intro {
+    font-size: 30px;
+    text-align: center;
+    border-width: 50px;
+    margin: 50px;
+}
+p {
+    font-size: 25px;
+}
+.mems {
+    text-align: center;
+}
+.rom {
+    text-align: center;
+}
+.gi {
+    text-align: center;
+}
